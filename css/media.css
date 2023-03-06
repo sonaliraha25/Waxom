@@ -1,0 +1,190 @@
+/* extra large device  */
+@media screen and (max-width: 1215px) { 
+    .protfolio_overlay {
+     
+        height: 64.2%;
+    }
+    .recent_txtts h3 {
+        padding-left: 35px;
+        font-size: 18px;
+    }
+}
+
+/* large device  */
+@media screen and (max-width: 1199px) { 
+    .protfolio_overlay {
+        height: 64.2% !important;
+    }
+    .overlay100 {
+        height: 46.8% !important;
+    }
+    .recent_txtts h3 {
+        font-size: 18px;
+    }
+    .footer_text1 p {
+        font-size: 12px;
+        width: 236px;
+
+    }
+    .common_footer_text_part p {
+        font-size: 12px;
+        width: 238px;
+    }
+    .common_footer_text_part3 p {
+        font-size: 12px;
+        width: 238px;
+    }
+    .common_footer_text_part4 p {
+        font-size: 12px;
+        width: 238px;
+    }
+    .common_footer_text_part5 p {
+        font-size: 12px;
+        width: 238px;
+    }
+    .common_footer_text_part6 p {
+        font-size: 12px;
+        width: 238px;
+    }
+ }
+
+/* small device  */
+@media screen and (max-width: 991px) {
+    /* menu part start here  */
+    .navbar-toggler{
+        color: aliceblue;
+        transition: 0.4s;
+    }
+    .navbar-toggler:hover{
+        border: 2px solid aliceblue;
+    }
+    .navbar-nav a{
+        text-align: center;
+        background: rgb(50, 49, 49);
+        transition: 0.4s;
+    }
+    /* menu part end here  */
+    /* banner part start here  */
+    .boverlay {
+        padding: 200px 0;
+    }
+    .bannertext h1 {
+        font-size: 48px;
+        margin-bottom: -10px;
+        margin-top: 3px;
+        line-height: 47px;
+    }
+    .bannertext p {
+        font-size: 15px;
+        width: 513px;
+    }
+    /* banner part end here  */
+    /* service item start here  */
+    .text p {
+        margin: 0 auto;
+    }
+    .txt h3 {
+        font-size: 28px;
+    }
+    /* service item end here  */
+    /* realize part start here  */
+    .txt p {
+        font-size: 14px;
+    }
+    /* realize part end here  */
+    /* purchase part start here  */
+    .purchase a {
+        margin-left: 286px;
+        margin-bottom: 80px;
+    }
+    /* purchase part end here  */
+    /* button part start here  */
+    #button {
+        margin-left: 30px;
+    }
+    .button_item {
+        margin-right: 22px;
+        margin-top: 10px;
+    }
+    .overlay100 {
+        height: 72% !important;
+    }
+    .commons_footer_head h3 {
+        padding-top: -8px;
+    }
+    picture{
+        margin-bottom: 40px;
+    }
+}
+
+/* extra small device  */
+@media screen and (max-width: 767px) { 
+    /* menu part start here  */
+    .navbar-toggler{
+        color: aliceblue;
+        transition: 0.4s;
+    }
+    .navbar-toggler:hover{
+        border: 2px solid aliceblue;
+    }
+    .navbar-nav a{
+        text-align: center;
+        background: rgb(50, 49, 49);
+        transition: 0.4s;
+    }
+    /* menu part end here  */
+    /* banner part start here  */
+    .boverlay {
+        padding: 200px 0;
+    }
+    .bannertext h1 {
+        font-size: 48px;
+        margin-bottom: -10px;
+        margin-top: 3px;
+        line-height: 47px;
+    }
+    .bannertext p {
+        font-size: 15px;
+        width: 513px;
+    }
+    /* banner part end here  */
+    /* service item start here  */
+    .text p {
+        margin: 0 auto;
+    }
+    .txt h3 {
+        font-size: 28px;
+    }
+    /* service item end here  */
+    /* realize part start here  */
+    .txt p {
+        font-size: 14px;
+    }
+    /* realize part end here  */
+    /* purchase part start here  */
+    .purchase a {
+        margin-left: 183px;
+        margin-bottom: 80px;
+    }
+    /* purchase part end here  */
+    /* button part start here  */
+    #button {
+        margin-left: 100px;
+    }
+    .button_item {
+        margin-right: 22px;
+        margin-top: 10px;
+    }
+    .overlay100 {
+        height: 62.3% !important;
+    }
+    .commons_footer_head h3 {
+        padding-top: -8px;
+    }
+    picture{
+        margin-bottom: 40px;
+    }
+    .protfolio_overlay {
+        height: 75.5% !important;
+    }
+}
